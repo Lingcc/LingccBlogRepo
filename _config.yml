@@ -69,7 +69,7 @@ theme: landscape
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:erlv/erlv.github.io.git
+  repo: git@github.com:Lingcc/LingccBlogStatic.git
   
 # Sitemap
 sitemap:
