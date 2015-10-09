@@ -70,3 +70,7 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:erlv/erlv.github.io.git
+  
+# Sitemap
+sitemap:
+  path: sitemap.xml
