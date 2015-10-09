@@ -1,6 +1,11 @@
 title: IBM中国编译器团队（上海）招聘
 date: 2015-10-06 23:11:46
-tags: IBM, IBM XL Compiler, Power, 上海, 编译招聘
+tags:
+  - IBM
+  - IBM XL Compiler
+  - Power
+  - 上海
+  - 编译招聘
 ---
 
 

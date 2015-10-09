@@ -1,11 +1,15 @@
 title: LLVM Bay Area Social 记
 date: 2015-05-08 23:12:46
-tags: google,  LLVM,  模糊测试,  硅谷,  程序员社交
+tags:
+  - google
+  - LLVM
+  - 模糊测试
+  - 硅谷
+  - 程序员社交
 ---
 在湾区呆了四个月，今天碰上了LLVM Bay Area Social活动。也去参加了。
 趁着印象还很深刻，记录如下。
 
-{% img 134854042.jpg [300]  %}
 
 1. LLVM在Bay Area的开发人员非常喜欢social，基本上每几个月就会有一次这样的活动
   1. http://lists.cs.uiuc.edu/pipermail/llvmdev/2015-February/082456.html
