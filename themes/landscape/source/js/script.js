@@ -92,7 +92,8 @@
 
       var alt = this.alt;
 
-      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      curImgURI = this.src;
+      if (alt && alt != (curImgURI.substring(curImgURI.lastIndexOf('/')+1))) $(this).after('<span class="caption">' + alt + '</span>');
 
       $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
     });
