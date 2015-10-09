@@ -4,8 +4,9 @@
 
 # Site
 title: 灵犀志趣
-subtitle: 灵犀趣官方博客
-descriptin: 关注性能、编译、存储、Android、Linux、编程语言
+#subtitle: 灵犀趣官方博客
+#descriptin: 关注性能、编译、存储、Android、Linux、编程语言
+subtitle: 关注性能、编译、存储、Android、Linux、编程语言
 author: Lingcc.com
 language: zh-CN
 timezone: Asia/Shanghai
