@@ -6,6 +6,8 @@ tags:
   - Power
   - 上海
   - 编译招聘
+category: 工作机会
+
 ---
 
 
