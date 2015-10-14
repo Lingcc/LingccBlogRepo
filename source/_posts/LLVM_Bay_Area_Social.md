@@ -1,4 +1,4 @@
-title: LLVM Bay Area Social 记
+title: LLVM Bay Area Social Notes
 date: 2015-05-08 23:12:46
 tags:
   - google
