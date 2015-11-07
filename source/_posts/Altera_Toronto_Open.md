@@ -4,6 +4,7 @@ tags:
   - 编译器开发
   - 编译招聘
 category: 工作机会
+comments: on
 ---
 
 Altera是全球第二大FPGA设备供应商，虽然公司只有3000多好人，但是市值却有130亿美元，
