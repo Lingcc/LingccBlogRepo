@@ -71,7 +71,10 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:Lingcc/LingccBlogStatic.git
-  
+
 # Sitemap
 sitemap:
   path: sitemap.xml
+
+# Comment
+duoshuo_shortname: lingcccnblog
