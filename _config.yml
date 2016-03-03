@@ -78,3 +78,14 @@ sitemap:
 
 # Comment
 duoshuo_shortname: lingcccnblog
+
+
+## For hexo-renderer-marked
+marked:
+  gfm: true
+  pedantic: false
+  sanitize: false
+  tables: true
+  breaks: true
+  smartLists: true
+  smartypants: true
